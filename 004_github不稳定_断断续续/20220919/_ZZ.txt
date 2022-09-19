@@ -1,0 +1,15 @@
+1、https://www.jianshu.com/p/7dce995dda9e
+
+  下载hosts: https://cdn.jsdelivr.net/gh/521xueweihan/GitHub520@main/hosts
+
+  C:\Windows\System32\drivers\etc\hosts
+  C:\Windows\System32\drivers\etc\
+
+  ipconfig /flushdns
+
+
+2、20220919 感觉有点用，待后续继续测试
+
+3、
+4、
+5、
