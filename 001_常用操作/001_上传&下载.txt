@@ -1,0 +1,21 @@
+git init
+
+git remote add origin https://github.com/33zcc/private2022_public.git
+
+git pull origin master
+
+
+
+
+git remote set-url origin https://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@github.com/33zcc/private2022_public.git
+
+https://<TOKEN>@github.com/<USERNAME>/<仓库名>.git
+
+
+
+
+git add *	/	git add .
+
+git commit -m "???"
+
+git push origin master
