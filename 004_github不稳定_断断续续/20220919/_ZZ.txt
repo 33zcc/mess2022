@@ -7,6 +7,7 @@
 
   ipconfig /flushdns
 
+	20220922: 下载了“SwitchHosts_windows_portable_ia32_4.1.2.6086.exe”(F:\软件\)
 
 2、20220919 感觉有点用，待后续继续测试
 
